@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...dejohnson@gmail.com
+- 📫 How to reach me ...dejohnson7754@gmail.com
 
 <!---
 Johndavid77/Johndavid77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
